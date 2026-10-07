@@ -1,12 +1,12 @@
-# Awesome-Compute-Auto-Scaling
+# Awesome-Cloud-Web-Management-Console
 
-# Awesome-Compute-Auto-Scaling ⚙️ 📈
+# Awesome-Cloud-Web-Management-Console 🖥️ 🌐
 
 
 
 <p align="center">
 
-  <img src="assets/banner.svg" alt="Awesome Compute Auto Scaling Banner" width="100%">
+  <img src="assets/banner.svg" alt="Awesome Cloud Web Management Console Banner" width="100%">
 
 </p>
 
@@ -18,11 +18,11 @@
 
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 
-  <a href="https://github.com/ishandutta2007/Awesome-Compute-Auto-Scaling"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Compute-Auto-Scaling?style=social" alt="GitHub_Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Web-Management-Console?style=social" alt="GitHub_Stars"/></a>
 
-  <a href="https://github.com/ishandutta2007/Awesome-Compute-Auto-Scaling/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Compute-Auto-Scaling?style=social" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Web-Management-Console?style=social" alt="GitHub Forks"/></a>
 
-  <a href="https://github.com/ishandutta2007/Awesome-Compute-Auto-Scaling/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Compute-Auto-Scaling?color=blue" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Web-Management-Console/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Web-Management-Console?color=blue" alt="License"/></a>
 
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
@@ -34,13 +34,13 @@
 
 
 
-## 🌟 Top Compute Auto Scaling Ecosystem
+## 🌟 Top Cloud Web Management Console Ecosystem
 
 
 
-**Curated List of Commercial Auto Scaling Platforms & Open-Source Autoscaling Tools**  
+**Curated List of Commercial Cloud Consoles & Open-Source Infrastructure Dashboards**  
 
-*Focused on Dynamic Capacity Management, Predictive Scaling, Kubernetes Autoscaling, Rightsizing & Self-Hosted Autoscaling Engines*
+*Focused on Browser-Based Cloud Management, Multi-Cloud Dashboards, Self-Hosted Control Panels, Resource Provisioning UIs & Infrastructure Visualization*
 
 
 
@@ -54,17 +54,17 @@
 
 ### 📌 Overview & SEO Summary
 
-Welcome to the ultimate curated directory of **compute auto scaling platforms**, **open-source autoscaling frameworks**, and **capacity optimization engines**. Whether you are looking for enterprise-grade commercial solutions (such as *AWS EC2 Auto Scaling*, *Azure VMSS*, and *Spot by NetApp*), or self-hostable open-source alternatives (like *KEDA*, *VPA*, and *Cluster Autoscaler*), this list covers category leaders, predictive scaling, and privacy-respecting capacity management.
+Welcome to the ultimate curated directory of **cloud web management consoles**, **open-source infrastructure dashboards**, and **self-hosted control panels**. Whether you are looking for enterprise-grade commercial solutions (such as *AWS Management Console*, *Google Cloud Console*, and *Azure Portal*), or self-hostable open-source alternatives (like *Cockpit*, *Rancher*, and *Portainer*), this list covers category leaders, multi-cloud dashboards, and privacy-respecting control planes.
 
 
 
 **Key Market Context:**
 
-- **Auto scaling is essential for cost efficiency** — cloud providers charge only for what you use, making dynamic scaling the primary mechanism for aligning capacity with demand .
+- **Hyperscaler consoles are the primary interface for 90%+ of cloud users** — AWS, Azure, and GCP consoles handle millions of daily interactions.
 
-- **Native auto scaling services are free** — AWS, Azure, and GCP charge nothing for the autoscaling service itself; you pay only for the underlying compute resources .
+- **Open-source dashboards like Cockpit, Rancher, and Portainer** now manage **millions of nodes** and offer **comparable functionality to commercial consoles** for specific use cases.
 
-- **Kubernetes-native autoscaling** (KEDA, VPA, Cluster Autoscaler) has become the standard for container workloads, with **KEDA achieving CNCF Graduation**.
+- **Headlamp (CNCF)** is emerging as the **standard Kubernetes UI**, with **plugin architecture** and **multi-cluster support**.
 
 
 
@@ -96,7 +96,7 @@ Welcome to the ultimate curated directory of **compute auto scaling platforms**,
 
 
 
-The compute auto scaling market spans **hyperscaler native services** (AWS EC2 Auto Scaling, Azure VMSS, GCP MIG) that provide **free autoscaling with deep ecosystem integration**, and **specialized optimization platforms** (Spot by NetApp, Cast AI, Turbonomic) that offer **predictive scaling, rightsizing, and multi-cloud capacity management**. **AWS EC2 Auto Scaling** is **free** — you pay only for the EC2 instances used . **Azure Virtual Machine Scale Sets** are **free** — you pay only for the underlying VMs, storage, and networking . **Google Compute Engine MIGs** are **free** — you pay only for the Compute Engine instances . **Spot by NetApp** has a **median buyer cost of $109,384/year** . **Cast AI** charges **$1,000/month for Growth (up to 2,000 CPUs)** or **$5,000/month for Enterprise** . **IBM Turbonomic** starts at **$18.75/month for Cloud** or **$225/year usage-based for Standard** .
+The cloud web management console market is dominated by **hyperscaler native consoles** (AWS, Azure, GCP) that provide **deep integration with their respective services**, **regional/independent provider consoles** (DigitalOcean, Linode, Vultr, Hetzner) that offer **simpler, developer-friendly interfaces**, and **enterprise cloud consoles** (IBM Cloud, Oracle Cloud) that serve **specific enterprise workloads**. All major consoles are **free** — you pay only for the underlying resources provisioned. **AWS Management Console** provides **500+ service interfaces**, **Azure Portal** offers **200+ services** with **customizable dashboards**, and **GCP Console** provides **150+ services** with **Cloud Shell integration**.
 
 
 
@@ -104,25 +104,25 @@ The compute auto scaling market spans **hyperscaler native services** (AWS EC2 A
 
 | :--- | :--- | :--- | :--- | :--- | :--- |
 
-| **[AWS EC2 Auto Scaling](https://aws.amazon.com/ec2/autoscaling/)** ☁️ | Amazon | ~$2.0 Trillion | **Free service**; pay only for EC2 instances used  | **Free forever** | **AWS-native auto scaling** — **Dynamic scaling** based on CloudWatch metrics, schedules, or predictive policies. **Step scaling** allows different adjustments based on alarm breach size (e.g., +10 instances at 60%, +30 at 75%) . **Spot Instances** with capacity-optimized allocation. **Warm pools** for faster scale-out. |
+| **[AWS Management Console](https://aws.amazon.com/console/)** ☁️ | Amazon | ~$2.0 Trillion | **Free** (pay only for resources) | **Free forever** | **AWS-native web console** — **500+ service interfaces** with **unified search and navigation**. **CloudShell** integrated for CLI access . **Resource Groups** and **Tag Editor** for organization. **Cost Explorer** and **Budgets** for FinOps . **The most comprehensive cloud console** in the industry. |
 
-| **[Azure Virtual Machine Scale Sets](https://azure.microsoft.com/en-us/products/virtual-machine-scale-sets/)** 🔷 | Microsoft | ~$3.90 Trillion | **Free service**; pay for VMs, storage, networking  | **Free forever** | **Azure-native auto scaling** — **Scheduled and metric-based scaling** with CPU, network, and disk metrics . **Automatic distribution across Availability Zones** for high availability. **Up to 1,000 VMs per scale set** . **Autoscale rules** with configurable min/max limits. |
+| **[Google Cloud Console](https://console.cloud.google.com/)** 🌐 | Google (Alphabet) | ~$2.0 Trillion | **Free** (pay only for resources) | **Free forever** | **GCP-native web console** — **150+ services** with **Cloud Shell** built in . **Activity log** and **IAM management** . **Cloud Monitoring** dashboards . **Project selector** for multi-project management . |
 
-| **[Google Compute Engine MIGs](https://cloud.google.com/compute/docs/autoscaler)** 🌐 | Google (Alphabet) | ~$2.0 Trillion | **Free service**; pay for Compute Engine instances  | **Free forever** | **GCP-native auto scaling** — **Target utilization metrics** (CPU, HTTP load balancing, Cloud Monitoring) and **schedule-based scaling** . **Up to 128 scaling schedules per MIG**. **Predictive autoscaling** with initialization period . **Scale to zero** with minNumReplicas=0. |
+| **[Microsoft Azure Portal](https://portal.azure.com/)** 🔷 | Microsoft | ~$3.90 Trillion | **Free** (pay only for resources) | **Free forever** | **Azure-native web console** — **200+ services** with **customizable dashboards** . **Azure Cloud Shell** integrated . **Resource groups and subscriptions** for organization. **Cost Management + Billing** for FinOps . |
 
-| **[Spot by NetApp](https://spot.io/)** 🟢 | NetApp / Flexera | ~$20 Billion | **Median buyer: $109,384/year** (range $13.5K–$191K)  | **Freemium · Self-serve signup**  | **Cloud automation and optimization** — **Continuous analytics** for infrastructure optimization. **Spot instance management** with interruption prediction. **Ocean** for Kubernetes worker node management. **Savings-based billing** aligns fees with achieved value. |
+| **[DigitalOcean Cloud Console](https://cloud.digitalocean.com/)** 🌊 | DigitalOcean | ~$3 Billion | **Free** (pay only for resources) | **$200 free credit for 60 days** | **Developer-friendly console** — **Simple, intuitive UI** for droplets, Kubernetes, databases, and spaces . **1-click apps** and **API tokens** . **The easiest cloud console for beginners** . |
 
-| **[Cast AI](https://cast.ai/)** 🎯 | Cast AI | Private | **Growth: $1,000/month** (up to 2,000 CPUs); **Enterprise: $5,000/month**  | **Free (Monitoring): unlimited clusters, read-only** | **Kubernetes automation** — **Automated cluster autoscaling** with continuous rebalancing, container live migration, and workload right-sizing . **Consumption unit: $0.01 per overage**. **Realized savings** tracked via node autoscaler and workload autoscaler. |
+| **[Linode Cloud Manager](https://cloud.linode.com/)** 🔵 | Akamai | ~$15 Billion | **Free** (pay only for resources) | **$100 free credit for 60 days** | **Akamai-owned cloud console** — **Simple and clean interface** for Linodes, Kubernetes, and NodeBalancers . **API and CLI** for automation . **Now integrated with Akamai's edge platform** . |
 
-| **[IBM Turbonomic](https://www.ibm.com/products/turbonomic)** ⚙️ | IBM | ~$200 Billion | **Cloud: $18.75/month**; **Standard: $225/year usage-based**  | **30-day free trial** with unlimited optimization  | **Application resource management** — **Public cloud optimization**, **Kubernetes optimization** (EKS, AKS, GKE), and **application/database resource optimization** . **SLO-driven optimization** and **enterprise SSO**. **Percentage of cloud spend or per MVS** pricing for larger deployments . |
+| **[Vultr Portal](https://my.vultr.com/)** 🟣 | Vultr | Private | **Free** (pay only for resources) | **$100–$300 free credit** (promotional) | **High-performance cloud console** — **Instance management, bare metal, and Kubernetes** . **32 global locations** . **Simple API and Terraform provider** . |
 
-| **[Densify](https://www.densify.com/)** 📊 | Densify | Private | **Custom enterprise pricing** | **Demo available** | **Cloud and container optimization** — **Optimization-as-code** with ML technology. **AWS, Azure, GCP, and Kubernetes analysis APIs** . **Container recommendations** per cluster. Makes applications **self-aware of precise resource requirements**. |
+| **[Hetzner Cloud Console](https://console.hetzner.cloud/)** 🇩🇪 | Hetzner Online | Private | **Free** (pay only for resources) | **€20 free credit** for new accounts | **German-engineered console** — **Simple and efficient UI** for cloud instances, volumes, and load balancers . **EU and US data centers** . **Excellent price-performance** . |
 
-| **[Granulate](https://granulate.io/)** ⚡ | Intel (Acquired) | ~$100 Billion (Intel) | **Custom enterprise pricing** | **Demo available** | **Autonomous workload optimization** — **No code changes required**. Continuous ML-driven CPU and memory tuning. |
+| **[Scaleway Elements Console](https://console.scaleway.com/)** 🇫🇷 | Scaleway (Iliad Group) | ~$10 Billion (Iliad) | **Free** (pay only for resources) | **Free tier: 1 instance for 1 month** | **French cloud console** — **GDPR-compliant EU hosting** . **Instances, Kubernetes, and bare metal** . **Strong European data sovereignty** . |
 
-| **[Kubecost](https://www.kubecost.com/)** 💰 | IBM (Kubecost) | Private | **Free tier: unlimited clusters, 250 cores or $100K spend** | **Free: EKS-optimized bundle with no spend cap**  | **Kubernetes cost monitoring** — **Real-time cost allocation** by cluster, node, namespace, controller, service, or pod . **EKS-optimized bundle is free** with full Kubernetes spend features, no $100K cap . **Savings recommendations** for rightsizing. |
+| **[IBM Cloud Console](https://cloud.ibm.com/)** 🔵 | IBM | ~$200 Billion | **Free** (pay only for resources) | **Free tier for some services** | **IBM-native console** — **200+ services** with **enterprise-grade security and compliance** . **Watson AI** and **quantum computing** access . **Strong for regulated industries** . |
 
-| **[Morpheus Data](https://morpheusdata.com/)** 🔮 | Morpheus Data | Private | **Quote-based, custom pricing**  | **Demo available** | **Cloud management platform** — **Self-service provisioning with policy guardrails**. **Custom pricing engine** with USN currency support for chargeback . **Cloud costing analytics** and billing reports . |
+| **[Oracle Cloud Infrastructure Console](https://cloud.oracle.com/)** 🔴 | Oracle | ~$300 Billion | **Free** (pay only for resources) | **Always Free: 4 OCPU ARM + 24 GB RAM** | **Oracle-native console** — **Compute, storage, and networking management** . **The most generous free tier in the industry** . **Ampere ARM instances** with excellent price-performance . |
 
 
 
@@ -138,51 +138,69 @@ The compute auto scaling market spans **hyperscaler native services** (AWS EC2 A
 
 
 
-- **[KEDA](https://github.com/kedacore/keda)** [![Stars](https://img.shields.io/github/stars/kedacore/keda?style=social&color=white)](https://github.com/kedacore/keda/stargazers)  
+- **[Cockpit](https://github.com/cockpit-project/cockpit)** [![Stars](https://img.shields.io/github/stars/cockpit-project/cockpit?style=social&color=white)](https://github.com/cockpit-project/cockpit/stargazers)  
 
-  **Kubernetes Event-driven Autoscaling**, Apache-2.0 licensed. **CNCF Graduated project** — the **de facto standard for event-driven autoscaling** in Kubernetes. **Scale-to-zero** for event-driven workloads. **50+ built-in scalers** for Cron, CPU, External, MQ, DB, and more. **No external dependencies** — runs on cloud and edge. Integrates natively with **Horizontal Pod Autoscaler (HPA)**. 🎯
-
-
-
-- **[Cluster Autoscaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)** [![Stars](https://img.shields.io/github/stars/kubernetes/autoscaler?style=social&color=white)](https://github.com/kubernetes/autoscaler/stargazers)  
-
-  **Kubernetes cluster scaling**, Apache-2.0 licensed. **Automatically adjusts cluster size** when pods fail to schedule or nodes are underutilized. **Works with AWS, Azure, GCP, and other providers**. **The foundational cluster autoscaler** for Kubernetes. ⚙️
+  **Web-based graphical interface for servers**, LGPL-2.1 licensed. **The most widely deployed open-source server management console** — **used by Fedora, RHEL, Debian, and Ubuntu** . **Browser-based terminal, systemd service management, storage, networking, and container management** . **No agent required** — connects via SSH . **Lightweight and fast** — runs on minimal hardware . **The simplest way to manage Linux servers from a browser** . 🐧
 
 
 
-- **[VPA (Vertical Pod Autoscaler)](https://github.com/kubernetes/autoscaler/tree/master/vertical-pod-autoscaler)** [![Stars](https://img.shields.io/github/stars/kubernetes/autoscaler?style=social&color=white)](https://github.com/kubernetes/autoscaler/stargazers)  
+- **[Portainer](https://github.com/portainer/portainer)** [![Stars](https://img.shields.io/github/stars/portainer/portainer?style=social&color=white)](https://github.com/portainer/portainer/stargazers)  
 
-  **Automatic CPU and memory rightsizing**, Apache-2.0 licensed. **Sets container resource requests and limits based on observed usage**. **Recommender mode** for read-only recommendations. **Reduces over-provisioning** and improves cluster utilization. 📊
-
-
-
-- **[Goldilocks](https://github.com/FairwindsOps/goldilocks)** [![Stars](https://img.shields.io/github/stars/FairwindsOps/goldilocks?style=social&color=white)](https://github.com/FairwindsOps/goldilocks/stargazers)  
-
-  **VPA recommendations dashboard**, Apache-2.0 licensed. **Web dashboard for viewing VPA recommendations** across all namespaces. Identifies workloads with **mismatched resource requests**. **The easiest way to start rightsizing Kubernetes workloads**. 🐻
+  **Container management for Docker and Kubernetes**, zlib licensed. **30K+ GitHub stars** — **the most popular open-source container console** . **Web-based UI** for managing containers, images, volumes, networks, and stacks . **Multi-cluster and multi-environment support** . **RBAC and team management** . **Self-hosted or Portainer Cloud** . **The definitive open-source Docker/Kubernetes dashboard** . 🐳
 
 
 
-- **[KRR (Kubernetes Resource Recommender)](https://github.com/robusta-dev/krr)** [![Stars](https://img.shields.io/github/stars/robusta-dev/krr?style=social&color=white)](https://github.com/robusta-dev/krr/stargazers)  
+- **[Rancher](https://github.com/rancher/rancher)** [![Stars](https://img.shields.io/github/stars/rancher/rancher?style=social&color=white)](https://github.com/rancher/rancher/stargazers)  
 
-  **Prometheus-based Kubernetes resource recommendations**, open-source. **The most popular open-source VPA alternative** — scrapes Prometheus metrics and generates CPU/memory rightsizing recommendations. **No VPA installation required**. **HTML reports** with per-namespace breakdowns. 🎯
-
-
-
-- **[OpenCost](https://github.com/opencost/opencost)** [![Stars](https://img.shields.io/github/stars/opencost/opencost?style=social&color=white)](https://github.com/opencost/opencost/stargazers)  
-
-  **Open-source cost monitoring for Kubernetes**, Apache-2.0 licensed. **Real-time cost allocation** by cluster, node, namespace, controller, service, or pod. **Multi-cloud monitoring for AWS, Azure, GCP**. **MCP server built into Helm chart** for AI agent access. 🌱
+  **Complete Kubernetes management platform**, Apache-2.0 licensed. **The most comprehensive open-source Kubernetes console** . **Multi-cluster management** across any infrastructure — cloud, on-premises, or edge . **Built-in monitoring, logging, and security** . **App catalog and Helm chart management** . **The enterprise-grade open-source Kubernetes dashboard** . ☸️
 
 
 
-- **[Kubecost Free](https://github.com/kubecost/cost-analyzer-helm-chart)** [![Stars](https://img.shields.io/github/stars/kubecost/cost-analyzer-helm-chart?style=social&color=white)](https://github.com/kubecost/cost-analyzer-helm-chart/stargazers)  
+- **[Headlamp (CNCF)](https://github.com/headlamp-k8s/headlamp)** [![Stars](https://img.shields.io/github/stars/headlamp-k8s/headlamp?style=social&color=white)](https://github.com/headlamp-k8s/headlamp/stargazers)  
 
-  **Kubernetes cost monitoring and optimization**, Apache-2.0 licensed. **EKS-optimized bundle is free** with no spend cap . **Savings recommendations** for rightsizing. **ETL feature** aggregates metrics for namespace-level, pod-level, and deployment-level visibility. 💰
+  **Kubernetes UI with plugin architecture**, Apache-2.0 licensed. **CNCF Sandbox project** — **the emerging standard Kubernetes UI** . **Multi-cluster support** with **real-time resource visualization** . **Plugin system** for extensibility . **Desktop and web deployment** . **The most modern open-source Kubernetes dashboard** . 🪔
 
 
 
-- **[Kube-downscaler](https://github.com/hjacobs/kube-downscaler)** [![Stars](https://img.shields.io/github/stars/hjacobs/kube-downscaler?style=social&color=white)](https://github.com/hjacobs/kube-downscaler/stargazers)  
+- **[OpenStack Horizon](https://github.com/openstack/horizon)** [![Stars](https://img.shields.io/github/stars/openstack/horizon?style=social&color=white)](https://github.com/openstack/horizon/stargazers)  
 
-  **Scale down Kubernetes resources during off-hours**, Apache-2.0 licensed. **Reduces costs by scaling down non-production workloads** during nights and weekends. **Configurable time windows**. **Simple, effective capacity management**. 🌙
+  **OpenStack dashboard**, Apache-2.0 licensed. **The official web console for OpenStack** . **Manage instances, volumes, networks, and images** . **Multi-project and multi-domain support** . **Extensible via plugins** . **The standard console for OpenStack-based clouds** . 🏗️
+
+
+
+- **[Proxmox VE Web UI](https://github.com/proxmox/pve-manager)** [![Stars](https://img.shields.io/github/stars/proxmox/pve-manager?style=social&color=white)](https://github.com/proxmox/pve-manager/stargazers)  
+
+  **Proxmox VE web management interface**, AGPL-3.0 licensed. **The web console for the most widely adopted open-source hypervisor** . **VM and container management** with **real-time performance graphs** . **No additional licensing costs** . **Built-in backup, HA, and live migration** . 🎯
+
+
+
+- **[Apache CloudStack UI](https://github.com/apache/cloudstack)** [![Stars](https://img.shields.io/github/stars/apache/cloudstack?style=social&color=white)](https://github.com/apache/cloudstack/stargazers)  
+
+  **CloudStack web console**, Apache-2.0 licensed. **Turnkey IaaS platform console** for public and private clouds . **Multi-tenancy and self-service portals** . **VM provisioning, networking, and storage management** . **Used by cloud providers worldwide** . ☁️
+
+
+
+- **[OpenNebula Sunstone](https://github.com/OpenNebula/one)** [![Stars](https://img.shields.io/github/stars/OpenNebula/one?style=social&color=white)](https://github.com/OpenNebula/one/stargazers)  
+
+  **OpenNebula web console**, Apache-2.0 licensed. **Simpler than OpenStack** — focused on **private, hybrid, and edge clouds** . **VM management, marketplace, and federation** . **The most approachable open-source cloud console** . 🌐
+
+
+
+- **[oVirt WebAdmin](https://github.com/oVirt/ovirt-engine)** [![Stars](https://img.shields.io/github/stars/oVirt/ovirt-engine?style=social&color=white)](https://github.com/oVirt/ovirt-engine/stargazers)  
+
+  **oVirt web administration portal**, Apache-2.0 licensed. **Enterprise-grade virtualization console** . **VM management, live migration, and HA** . **The upstream for Red Hat Virtualization** . **The enterprise-grade open-source alternative to VMware vCenter** . 🏢
+
+
+
+- **[Xen Orchestra](https://github.com/vatesfr/xen-orchestra)** [![Stars](https://img.shields.io/github/stars/vatesfr/xen-orchestra?style=social&color=white)](https://github.com/vatesfr/xen-orchestra/stargazers)  
+
+  **Web management console for XenServer and XCP-ng**, AGPL-3.0 licensed. **The web console for XCP-ng** — the open-source XenServer fork . **VM management, backup, and disaster recovery** . **Real-time performance monitoring** . **The most complete open-source Xen management console** . 🛡️
+
+
+
+- **[Cockpit Podman](https://github.com/cockpit-project/cockpit-podman)** [![Stars](https://img.shields.io/github/stars/cockpit-project/cockpit-podman?style=social&color=white)](https://github.com/cockpit-project/cockpit-podman/stargazers)  
+
+  **Podman container management plugin for Cockpit**, LGPL-2.1 licensed. **Manage Podman containers, images, and pods** from the Cockpit web console . **Integrates with Cockpit's server management** . **The most integrated open-source container console** . 🎛️
 
 
 
@@ -194,7 +212,7 @@ The compute auto scaling market spans **hyperscaler native services** (AWS EC2 A
 
 
 
-Contributions are welcome! Follow these steps to submit new auto scaling platforms or open-source autoscaling software:
+Contributions are welcome! Follow these steps to submit new cloud console platforms or open-source management dashboards:
 
 
 
@@ -216,7 +234,7 @@ Contributions are welcome! Follow these steps to submit new auto scaling platfor
 
 
 
-[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Compute-Auto-Scaling&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Compute-Auto-Scaling&type=date&legend=top-left)
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Cloud-Web-Management-Console&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Cloud-Web-Management-Console&type=date&legend=top-left)
 
 
 
@@ -228,13 +246,13 @@ Contributions are welcome! Follow these steps to submit new auto scaling platfor
 
 
 
-If you find this compute auto scaling repository useful, please consider supporting the project:
+If you find this cloud web management console repository useful, please consider supporting the project:
 
 
 
 - ⭐ **Star** this repository to increase visibility!
 
-- 🔀 **Fork** and share with fellow SREs, platform engineers, and open-source advocates.
+- 🔀 **Fork** and share with fellow cloud architects, DevOps engineers, and open-source advocates.
 
 - ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
@@ -250,13 +268,9 @@ If you find this compute auto scaling repository useful, please consider support
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
 
-- **Native auto scaling services are free** — AWS EC2 Auto Scaling, Azure VMSS, and GCP MIGs charge nothing for the autoscaling service itself; you pay only for the underlying compute resources .
+- **All major cloud consoles are free** — you pay only for the underlying resources provisioned . **AWS Management Console** provides **500+ service interfaces** , **Azure Portal** offers **200+ services** with customizable dashboards , and **GCP Console** provides **150+ services** with Cloud Shell .
 
-- **Spot by NetApp has a median buyer cost of $109,384/year** . **Cast AI Growth is $1,000/month** with a **$0.01 per overage consumption unit** . **IBM Turbonomic Cloud is $18.75/month** for unlimited optimization .
-
-- **Kubecost EKS-optimized bundle is free** with no spend cap, unlike the standard free tier which has a **$100K spend limit** .
-
-- **Open-source autoscaling tools (KEDA, VPA, Cluster Autoscaler) are not turnkey** — they require **Kubernetes expertise and ongoing maintenance**. **Always validate scaling behavior with a proof-of-concept** before production deployment. ⚙️
+- **Open-source consoles (Cockpit, Portainer, Rancher) are not turnkey** — they require **deployment, configuration, and ongoing maintenance** . **Cockpit requires SSH access** . **Portainer requires Docker or Kubernetes** . **Rancher requires a Kubernetes cluster** . **Always validate console functionality with a proof-of-concept** before production deployment . 🖥️
 
 
 
@@ -266,6 +280,6 @@ If you find this compute auto scaling repository useful, please consider support
 
 <p align="center">
 
-  <b>Made with ❤️ for SREs, platform engineers, and open-source autoscaling advocates.</b>
+  <b>Made with ❤️ for cloud architects, DevOps engineers, and open-source console advocates.</b>
 
 </p>
