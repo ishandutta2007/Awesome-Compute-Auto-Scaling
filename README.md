@@ -68,7 +68,7 @@ Welcome to the ultimate curated directory of **compute auto scaling platforms**,
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Kubernetes Autoscaler](https://github.com/kubernetes/autoscaler)** [![Stars](https://img.shields.io/github/stars/kubernetes/autoscaler?style=social&color=white)](https://github.com/kubernetes/autoscaler/stargazers)  
   **Official Kubernetes Autoscaling Framework (Cluster Autoscaler & Vertical Pod Autoscaler)**, Apache-2.0 licensed. **Automatically adjusts cluster node capacity** when pods fail to schedule or nodes are underutilized, while **VPA automatically tunes container CPU and memory requests**. **Works with AWS, Azure, GCP, and bare-metal providers**. ⚙️ ☸️
@@ -108,7 +108,7 @@ Contributions are welcome! Follow these steps to submit new auto scaling platfor
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars Count, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
